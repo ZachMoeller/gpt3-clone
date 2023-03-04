@@ -15,4 +15,3 @@ const Cta = () => {
 };
 
 export default Cta;
-<div>CTA</div>;
