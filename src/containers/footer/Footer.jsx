@@ -3,6 +3,13 @@ import "./footer.css";
 import gpt3Logo from "../../assets/logo.svg";
 
 const Footer = () => {
+  const linksText = ["Overons", "Social Media", "Counters", "Contact"];
+  const companyText = ["Terms & Conditions", "Privacy", "Contact"];
+  const getInTouchText = [
+    "Crechterwoord K12 182 DK Alknjkcb",
+    "085-132567",
+    "info@payme.net",
+  ];
   return (
     <div className="gpt3__footer section__padding">
       <div className="gpt3__footer-header">
